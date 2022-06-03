@@ -1,0 +1,16 @@
+{
+  "main.css": "/react_deploy/static/css/main.8ca27d91.chunk.css",
+  "main.js": "/react_deploy/static/js/main.27c04c1c.chunk.js",
+  "main.js.map": "/react_deploy/static/js/main.27c04c1c.chunk.js.map",
+  "runtime~main.js": "/react_deploy/static/js/runtime~main.f759f2d8.js",
+  "runtime~main.js.map": "/react_deploy/static/js/runtime~main.f759f2d8.js.map",
+  "static/js/2.b6a0e90a.chunk.js": "/react_deploy/static/js/2.b6a0e90a.chunk.js",
+  "static/js/2.b6a0e90a.chunk.js.map": "/react_deploy/static/js/2.b6a0e90a.chunk.js.map",
+  "static/js/3.7fa365a8.chunk.js": "/react_deploy/static/js/3.7fa365a8.chunk.js",
+  "static/js/3.7fa365a8.chunk.js.map": "/react_deploy/static/js/3.7fa365a8.chunk.js.map",
+  "index.html": "/react_deploy/index.html",
+  "precache-manifest.68cded33658efd2ca851e7b9fc609012.js": "/react_deploy/precache-manifest.68cded33658efd2ca851e7b9fc609012.js",
+  "service-worker.js": "/react_deploy/service-worker.js",
+  "static/css/main.8ca27d91.chunk.css.map": "/react_deploy/static/css/main.8ca27d91.chunk.css.map",
+  "static/media/logo.svg": "/react_deploy/static/media/logo.06e73328.svg"
+}
